@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Matematik" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+
+
+    <style name="Theme.Matematik" parent="Base.Theme.Matematik"/>
+
+
+</resources>
